@@ -1,2 +1,3 @@
-public class GitTest {asdfasdfmerong
+public class GitTest {
+    //최정윤
 }
