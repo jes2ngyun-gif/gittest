@@ -3,4 +3,5 @@ public class GitTest {
 
     }
     // 머지 테스트 중입니다. ㅠㅠ
+    //case2 작업
 }
